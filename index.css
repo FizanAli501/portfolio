@@ -1,0 +1,13 @@
+.flex ul{
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    padding: 0% !important;
+}
+li{
+ list-style-type:none;
+}
+li a{
+    text-decoration: none;
+
+}
